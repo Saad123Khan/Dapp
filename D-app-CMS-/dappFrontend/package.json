@@ -1,0 +1,45 @@
+{
+  "name": "coinrule",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^4.29.5",
+    "@tawk.to/tawk-messenger-react": "^2.0.1",
+    "@walletconnect/web3-provider": "^1.8.0",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "@web3modal/ethereum": "^2.2.1",
+    "@web3modal/react": "^2.2.1",
+    "axios": "^1.3.4",
+    "bootstrap": "^5.2.3",
+    "echarts-for-react": "^3.0.2",
+    "ethers": "^5.7.2",
+    "firebase": "^9.19.1",
+    "html-react-parser": "^3.0.12",
+    "i18next": "^22.4.14",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-http-backend": "^2.2.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-i18next": "^12.2.0",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.8.2",
+    "recharts": "^2.4.3",
+    "wagmi": "^0.12.2",
+    "web3": "^1.8.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.1.0"
+  }
+}

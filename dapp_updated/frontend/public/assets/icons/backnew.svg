@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>返回</title>
+    <g id="Coinbase" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="产品详情" transform="translate(-40.000000, -64.000000)" fill-rule="nonzero">
+            <g id="返回" transform="translate(40.000000, 64.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="28.4444444" height="32"></rect>
+                <polygon id="路径" fill="#353F52" points="32 13.1711457 8.27376424 13.1711457 17.1964512 3.19094766 14.3371356 0 0 16 14.3371356 32 17.1964512 28.8090523 7.25982255 17.6973126 32 17.6973126 32 13.1711457"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
